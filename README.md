@@ -12,7 +12,7 @@
 - Other Skills: Data Analysis, Machine Learning, Deep Learning
 
 ## 📫 Contact
-- You can reach me via [LinkedIn](www.linkedin.com/in/gabriel-rochon-715642251) or by email at [gabrielrochon01@gmail.com]
+- You can reach me via [LinkedIn](https://www.linkedin.com/in/gabriel-rochon-715642251) or by email at [gabrielrochon01@gmail.com]
 
 ## 🌟 Projects
 You can see my public projects on my profile

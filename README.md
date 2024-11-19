@@ -4,7 +4,7 @@
 - I am particularly interested in Artificial Intelligence (AI).
 
 ## 🌱 Currently
-- I am currently studying AI and economics at Paris Dauphine University in Dual license.
+- I am currently studying AI and economics at Paris Dauphine University in Double bachelors.
 
 ## 💼 Skills
 - Programming Languages: Python, SQL with some basics C and R

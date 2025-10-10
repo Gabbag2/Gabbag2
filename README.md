@@ -17,8 +17,8 @@
 ## 🌟 Projects
 You can check out my public best projects on my profile or directly using this [Github](https://github.com/Gabbag2?tab=repositories) link.
 Or other project i did fit in organizations:
-[Github](https://github.com/Gabbag2-Cours)
-[Github]((https://github.com/Gabbag2-Cours))
+- [Github](https://github.com/orgs/Gabbag2-Cours/repositories)
+- [Github](https://github.com/orgs/gab-perso-stage/repositories)
 
 ## 📍 Location
 - Paris, France

@@ -15,10 +15,10 @@
 - You can reach me via [LinkedIn](https://www.linkedin.com/in/gabriel-rochon-715642251) or by email at [gabrielrochon01@gmail.com]
 
 ## 🌟 Projects
-You can check out my public best projects on my profile or directly using this [Github](https://github.com/Gabbag2?tab=repositories) link.
-Or other project i did fit in organizations:
-- [Github](https://github.com/orgs/Gabbag2-Cours/repositories)
-- [Github](https://github.com/orgs/gab-perso-stage/repositories)
+- You can check out my public best projects on my profile or directly using this [Github](https://github.com/Gabbag2?tab=repositories) link.
+- Or other project i did fit in organizations:
+- [Cours L2/L3](https://github.com/orgs/Gabbag2-Cours/repositories)
+- [Stage CNRS/ENS](https://github.com/orgs/gab-perso-stage/repositories)
 
 ## 📍 Location
 - Paris, France

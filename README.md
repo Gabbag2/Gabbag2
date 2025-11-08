@@ -12,7 +12,7 @@
 - Other Skills: Data Analysis, Machine Learning, Deep Learning, Basics in neuroscience
 
 ## 📫 Contact
-- You can reach me via [LinkedIn](https://www.linkedin.com/in/gabriel-rochon-715642251) or by email at [gabrielrochon01@gmail.com]
+- You can reach me via [LinkedIn](https://www.linkedin.com/in/gabriel-rochon-715642251) or by email at [gabriel.rochon97410@gmail.com]
 
 ## 🌟 Projects
 You can check out my public best projects on my profile or directly using this [Github](https://github.com/Gabbag2?tab=repositories) link.

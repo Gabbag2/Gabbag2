@@ -16,6 +16,7 @@
 
 ## 🌟 Projects
 You can check out my public best projects on my profile or directly using this [Github](https://github.com/Gabbag2?tab=repositories) link.
+Such as AI Translator EN→FR, Sleep scoring and disease prediction, GN-GAN and more.
 
 You can also explore other projects I worked on within organizations:
 - [Courses  L2/L3/M1](https://github.com/orgs/Gabbag2-Cours/repositories)

@@ -19,7 +19,6 @@ You can check out my public best projects on my profile or directly using this [
 
 You can also explore other projects I worked on within organizations:
 - [Courses  L2/L3/M1](https://github.com/orgs/Gabbag2-Cours/repositories)
-- [Intership CNRS/ENS](https://github.com/orgs/gab-perso-stage/repositories)
 
 ## 📍 Location
 - Paris, France
